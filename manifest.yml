@@ -1,9 +1,9 @@
 applications:
 - services:
   - conversation-bot
-  host: botstarter
+  host: legalbot-ai
   disk: 512M
-  name: botstarter
+  name: legalbot-ai
   command: node app.js
   path: .
   domain: mybluemix.net
